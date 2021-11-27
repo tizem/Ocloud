@@ -1,0 +1,8 @@
+# DATA / IA
+pyspark==3.0.1
+
+# TEST
+pytest==5.2.1
+pytest-cov==2.8.1
+coverage==4.5.4
+pytest-spark==0.5.2
